@@ -1,0 +1,2 @@
+This is a File added that corresponds to the Assignment1, inside the 
+React Vite Project.
